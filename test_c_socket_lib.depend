@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1551502923 source:/home/bg2dgr/code/C/test_c_socket_lib/main.c
+	<stdio.h>
+	<stdlib.h>
+	"c_socket.h"
+
+1551502746 /home/bg2dgr/code/C/test_c_socket_lib/c_socket.h
+
+1551502105 source:/home/bg2dgr/code/C/test_c_socket_lib/c_socket.c
+	"c_socket.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
